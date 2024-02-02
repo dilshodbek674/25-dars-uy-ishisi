@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.box {
+    width: 90%;
+    height: 100vh;
+    background-color: red;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.navbar {
+    width: 100%;
+    height: 100px;
+    background-color: blueviolet;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+.main {
+    display: flex;
+}
+
+.foter1 {
+    width: 70%;
+    height: 70vh;
+    background-color: rgb(142, 142, 194);
+    text-align: center;
+    padding-top:200px;
+    font-size: 30px;
+}
+.foter2{
+    width: 40%;
+    height: 70vh;
+    background-color: crimson;
+    text-align: center;
+    padding-top: 200px;
+    font-size: 30px;
+}
+.page{
+    width: 100%;
+    height: 200px;
+    background-color: orange;
+    text-align: center;
+    padding-top: 50px;
+}
+.item{
+    width: 100%;
+    height: 120vh;
+    background-color: orangered;
+    margin-top: 150vh;
+    padding-top: 100px;
+}
+.card{
+    width: 80%;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 30px;
+    color: orange;
+    
+
+}
+.head{
+    display: flex;
+    gap: 20px;
+    
+}
+.yarim{
+    width: 30%;
+    height: 300px;
+    background-color: #ffffff;
+    margin-top: 50px;
+    border-radius: 15px;
+    border: none;
+    margin-left: 150px;
+    color: orange;
+    text-align: center;
+    padding-top: 150px;
+
+}
+.ikki{
+    width: 50%;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 50px;
+    border-radius: 15px;
+    border: none;
+    color: orange;
+    text-align: center;
+    padding-top: 150px;
+}
+.foter{
+    width: 80%;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 150px;
+    margin-top: 100px;
+    text-align: center;
+    color: orange;
+    padding-top: 30px;
+    border-radius: 15px;
+
+}
